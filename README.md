@@ -9,5 +9,7 @@
 - React.js
 - Styled Components
 - Typescript
+- Mirage JS
+- Axios
 
 _under development..._
