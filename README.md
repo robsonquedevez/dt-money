@@ -14,7 +14,9 @@
 
 #### Using application
 
-> git clone https://github.com/robsonquedevez/dt-money.git
-> cd dt-money/
-> yarn
-> yarn start
+```
+git clone https://github.com/robsonquedevez/dt-money.git
+cd dt-money/
+yarn
+yarn start
+```
