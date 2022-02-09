@@ -12,4 +12,9 @@
 - Mirage JS
 - Axios
 
-_under development..._
+#### Using application
+
+> git clone https://github.com/robsonquedevez/dt-money.git
+> cd dt-money/
+> yarn
+> yarn start
